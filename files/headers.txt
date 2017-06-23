@@ -1,0 +1,42 @@
+Host	
+"people-pa.clients6.google.com"
+[Подробнее]
+User-Agent	
+"Mozilla/5.0 (Windows NT 10.0;… Gecko/20100101 Firefox/54.0"
+[Подробнее]
+Accept	
+"*/*"
+[Подробнее]
+Accept-Language	
+"en"
+[Подробнее]
+Accept-Encoding	
+"gzip, deflate, br"
+[Подробнее]
+X-HTTP-Method-Override	
+"GET"
+Authorization	
+"SAPISIDHASH 1497795511_4e19f3…ca0d105e587928e61763f69859d5"
+[Подробнее]
+Content-Type	
+"application/x-www-form-urlencoded"
+[Подробнее]
+X-Goog-AuthUser	
+"0"
+Referer	
+"https://hangouts.google.com/w…&hl=uk&zx=0.2570514391908908"
+[Подробнее]
+Content-Length	
+"95"
+[Подробнее]
+Origin	
+"https://hangouts.google.com"
+[Подробнее]
+Cookie	
+"NID=105=RzB0dBMYrPmcqnFLe9AE5…wxp0f-uLN6Q; OGPC=5061451-3:"
+[Подробнее]
+DNT	
+"1"
+[Подробнее]
+Connection	
+"keep-alive"
